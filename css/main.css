@@ -234,6 +234,7 @@ Primary use:
 [ Width ]*/
 .wsize1 {
   width: 50%;
+  /* vertical-align: middle; */
 }
 
 .wsize2 {
