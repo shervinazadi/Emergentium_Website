@@ -201,10 +201,13 @@ Primary use:
 /*//////////////////////////////////////////////////////////////////
 [ L-Text >= 26 ]*/
 .l1-txt1 {
-  font-family: Poppins-Medium; /*PlayfairDisplay-BlackItalic;*/
-  font-size: 60px;
-  color: #fff;
+  font-family: Poppins-Regular; /*PlayfairDisplay-BlackItalic;*/
+  font-size: 45px;
+  color: #bbb;
   line-height: 1.1;
+  display: inline-block;
+  padding-left: 50px;
+  vertical-align: -21%;
 }
 
 /*==================================================================
